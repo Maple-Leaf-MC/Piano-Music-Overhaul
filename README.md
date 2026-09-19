@@ -16,7 +16,7 @@
 
 **Piano Music & Discs** gives Minecraft a completely new sound. Every background track you hear while playing—from the main menu to the End—has been replaced with a piano version, and so has every music disc in the game. Mine, build, explore, and fight the same as always, just with a peaceful piano soundtrack behind you.
 
-![Minecraft Jukebox in Game](path/to/screenshot.jpg)
+![Minecraft Jukebox in Game](jukebox.png)
 
 ---
 
