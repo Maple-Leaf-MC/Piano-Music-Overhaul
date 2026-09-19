@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="path/to/icon.png" alt="Piano Music Overhaul Logo" width="128" />
+  <img src="pack.png" alt="Piano Music Overhaul Logo" width="128" />
 
   # Piano Music Overhaul
 
