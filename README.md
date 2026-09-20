@@ -6,7 +6,7 @@
 
   **Replaces Minecraft's background music and all music discs with piano versions.**
 
-  [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepacks/pianomusic)
+  [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/pianomusic)
 
 </div>
 
