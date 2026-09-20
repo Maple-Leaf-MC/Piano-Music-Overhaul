@@ -6,8 +6,7 @@
 
   **Replaces Minecraft's background music and all music discs with piano versions.**
 
-  [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/pianomusic)
-
+  [![Download on Modrinth](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/modrinth.svg)](https://modrinth.com/resourcepack/pianomusic) [![View on GitHub](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/github.svg)](https://github.com/Maple-Leaf-MC/Piano-Music-Overhaul/)
 </div>
 
 ---
